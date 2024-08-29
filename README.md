@@ -1,7 +1,7 @@
-🚀 Currently Learning Full Stack Development! 🌐
-🔧 Building projects with HTML, CSS, JavaScript, React, and Java technologies.
-📚 Committed to continuous learning and open-source contributions.
-💡 Let's code and collaborate together!
+-🚀 Currently Learning Full Stack Development! 🌐
+-🔧 Building projects with HTML, CSS, JavaScript, React, and Java technologies.
+-📚 Committed to continuous learning and open-source contributions.
+-💡 Let's code and collaborate together!
 - 📫 How to reach me emailId:jasmandeep1551999@gmail.com
 
 <!---
