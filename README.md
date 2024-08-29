@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jasmandeep15
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on projects
+🚀 Currently Learning Full Stack Development! 🌐
+🔧 Building projects with HTML, CSS, JavaScript, React, and Java technologies.
+📚 Committed to continuous learning and open-source contributions.
+💡 Let's code and collaborate together!
 - 📫 How to reach me emailId:jasmandeep1551999@gmail.com
 
 <!---
