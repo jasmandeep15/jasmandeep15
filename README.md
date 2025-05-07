@@ -1,7 +1,7 @@
 👋 Jasmandeep Singh Chawla
 Full Stack Java Developer | Java | Spring Boot | ReactJS | Building Scalable Web Applications
 
-Welcome to my GitHub profile! I’m Jasmandeep, a passionate Full Stack Java Developer with 2+ years of experience in building robust, scalable, and high-performance web applications. My expertise lies in Java, Spring Boot, ReactJS, JavaScript (ES6+), and RESTful APIs, with a focus on creating end-to-end solutions that deliver seamless user experiences.
+Welcome to my GitHub profile! I’m Jasmandeep, a passionate Full Stack Java Developer with 3+ years of experience in building robust, scalable, and high-performance web applications. My expertise lies in Java, Spring Boot, ReactJS, JavaScript (ES6+), and RESTful APIs, with a focus on creating end-to-end solutions that deliver seamless user experiences.
 
 🔧 Skills & Expertise
 Languages: Java, JavaScript (ES6+), HTML5, CSS3, Lua
